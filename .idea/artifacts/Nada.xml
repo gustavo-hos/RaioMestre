@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Nada">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="Nada.jar">
+      <element id="module-output" name="RaioMestreV1" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,13 @@
+name: RaioMestre
+main: br.com.playdreamcraft.RaioMestre
+version: 1.0
+prefix: [RMS]
+
+commands:
+ raiomestre:
+  aliases: [rms]
+  permission: raiomestre.give
+  permission-message: §cVoce nao tem permissao.
+permissions:
+ raiomestre.give:
+  default: op
